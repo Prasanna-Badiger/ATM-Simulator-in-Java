@@ -4,8 +4,11 @@ In this Miniproject I was used 797979,12345 as a Customer Number and Pin Number 
   1.Checking Account
   2.Saving Account
   3.Exit
+  
 If you want information about checking account enter 1.or if you want details about Saving Account enter 2.
+
 Since it is an ATM Machine. Initially I declared some of the accounts and initialized the amount to zero. And doing following operations on that account.
+
   1.	Deposit
   2.	Withdrawal
   3.	Balance Enquiry
