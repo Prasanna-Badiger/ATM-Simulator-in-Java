@@ -9,6 +9,7 @@ Since it is an ATM Machine. Initially I declared some of the accounts and initia
   1.	Deposit
   2.	Withdrawal
   3.	Balance Enquiry
+
 Method or Functions Used:
 
 1.	void getlogin().
